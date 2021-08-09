@@ -55,6 +55,7 @@ file should be a comma separate file with this format:
 The output should be sorted by symbol ascending ('aaa' should be first).
 
 Sample Input:
+```
 52924702,aaa,13,1136
 52924702,aac,20,477
 52925641,aab,31,907
@@ -63,9 +64,11 @@ Sample Input:
 52930489,aaa,18,1222
 52931654,aaa,9,1077
 52933453,aab,9,756
+```
 
 Sample Output:
+```
 aaa,5787,40,1161,1222
 aab,6103,69,810,907
 aac,3081,41,559,638
-
+```
