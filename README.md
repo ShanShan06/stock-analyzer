@@ -1,7 +1,7 @@
 # stock-analyzer
 
 This problem will require you to write an application that will read an input file ('input.csv') and write out a new file calculated from the inputs.
-* The code is implemented in Python and intentionally avoiding existing libraries.
+* The code is implemented in Python and intentionally avoids using existing libraries.
 * The unit tests are written with [py.test](https://docs.pytest.org)
 
 _______________________________________________________________________________
